@@ -1,0 +1,5 @@
+
+C:\Users\user\AppData\Local\Programs\Python\Python311\python.exe -m venv venv
+
+
+>pip install -r requirements.txt

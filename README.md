@@ -31,3 +31,17 @@ Create an intuitive interface for:
 1. Upload your lab report image (JPEG, PNG, PDF).
 2. Gemini-Pro-Vision extracts key results, Test Name, & Units.
 3. View data in Table.
+
+## Output:
+
+![img_1](./Output/11.png)
+![img_2](./Output/12.png)
+---
+![img_3](./Output/21.png)
+![img_4](./Output/22.png)
+---
+![img_5](./Output/31.png)
+![img_6](./Output/41.png)
+---
+![img_7](./Output/1.png)
+![img_8](./Output/2.png)
